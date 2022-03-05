@@ -1,12 +1,12 @@
 ### Hi there 👋
-I'm following the template to fill this up. XD
+I'm following the template to fill this up. XD<br/>
 I'm currently learning flutter & computer basics.
 
-Junior in univ. and normally strange. (?) ~~普通に変なやつ~~
+Junior in univ. and normally strange. (?) ~~普通に変なやつ~~<br/>
 Bachelor in Japanese language & culture.
 
 Capable of conversations with Chinese🇨🇳， English🇬🇧 & Japanese🇯🇵, currently learning JP & le français.
-
+<br/>
 Dash to the future!
 
 <!--
