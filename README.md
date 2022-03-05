@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm following the template to fill this up. XD
+I'm currently learning flutter & computer basics.
+
+Junior in univ. and normally strange. (?) ~~普通に変なやつ~~
+Bachelor in Japanese language & culture.
+
+Capable of conversations with Chinese🇨🇳， English🇬🇧 & Japanese🇯🇵, currently learning JP & le français.
+
+Dash to the future!
 
 <!--
 **ryuujo1573/ryuujo1573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
