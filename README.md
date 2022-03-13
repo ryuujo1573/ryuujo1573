@@ -5,7 +5,7 @@ I'm currently learning flutter & computer basics.
 Junior in univ. and normally strange. (?) ~~普通に変なやつ~~<br/>
 Bachelor in Japanese language & culture.
 
-Capable of conversations with Chinese🇨🇳， English🇬🇧 & Japanese🇯🇵, currently learning JP & le français.
+Capable of conversations with Chinese🇨🇳， English🇬🇧 & Japanese🇯🇵, currently j'étudie le français🇫🇷 .
 <br/>
 Dash to the future!
 
