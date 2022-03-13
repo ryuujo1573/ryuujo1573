@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm following the template to fill this up. XD<br/>
+~~I'm following the template to fill this up. ~~XD<br/>
 I'm currently learning flutter & computer basics.
 
 Junior in univ. and normally strange. (?) ~~普通に変なやつ~~<br/>
