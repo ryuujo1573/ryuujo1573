@@ -9,6 +9,8 @@ Capable of conversations with Chinese🇨🇳， English🇬🇧 & Japanese🇯�
 <br/>
 Dash to the future!
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuujo1573)
+
 <!--
 **ryuujo1573/ryuujo1573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
