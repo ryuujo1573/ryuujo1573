@@ -20,6 +20,7 @@ This is **Ryuujo**. `ryuujo` is romaji-formed kanji pronounced as `/'lju:d3o/`.
 #### How to reach me
 
 📮 by [email](mailto:ryuujozhn#outlook.com)!
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuujo1573)
 
 <!--
