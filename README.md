@@ -24,4 +24,4 @@ This is Ryuujo Zhang.
 
 📮 by [email](mailto:me@ryuujo.com)!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-25519)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryuujo1573)
