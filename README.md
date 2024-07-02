@@ -18,7 +18,7 @@ This is Ryuujo Zhang.
  |:---------|:-------:|
  | English  | C1 |
  | Japanese | N1 |
- | Chinese  | HSK-10|
+ | Chinese  | Native |
 
 #### How to reach me
 
