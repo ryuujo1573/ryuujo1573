@@ -8,17 +8,18 @@ This is ryuujo.
 
 ```
 📖 B.A. in Japanese
-🌐 Skilled Web Developer
-📅 Experienced Full-stack Engineering
-💬 Polyglot in English, Japanese, Chinese and French
+🌐 Self-taught Full-stack Software Engineer
+📅 Learner & Listener. 🔁build, fix and improve🔁
+💬 Multilingual Polyglot in English, Japanese, Chinese and French
 🤔 Quidditch seeker
 ```
 
- | Language | Level |
- |:---------|:-------:|
- | English  | C1 |
- | Japanese | N1 |
- | Chinese  | Native |
+ | Language | Level | Reading | Listening | Writing | Speaking |
+ |:---------|:-------:|:--:|:--:|:--:|:--:|
+ | English  | C1    | 😆 | 😃 | 🙂 | 🙂 |
+ | Japanese | N1    | 😃 | 😃 | 😃 | 🙂 |
+ | Chinese (dialects included) | *     | 👽 | 👽 | 👾 | 🚀 |  
+ | French   | A2    | 🤔 | 🐕 | 🐈 | 🦔 |
 
 #### How to reach me
 
