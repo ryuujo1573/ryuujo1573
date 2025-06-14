@@ -7,19 +7,19 @@ This is ryuujo.
 #### About me
 
 ```
+🌐 Full-stack Software Engineer; 2yrs experienced
 📖 B.A. in Japanese
-🌐 Self-taught Full-stack Software Engineer
 📅 Learner & Listener. 🔁build, fix and improve🔁
-💬 Multilingual Polyglot in English, Japanese, Chinese and French
-🤔 Quidditch seeker
+💬 Polyglot in English, Japanese and Chinese; learning French
+🤔 Peer mental health counselor; (ADHD, GAD, BPD only)
 ```
 
  | Language | Level | Reading | Listening | Writing | Speaking |
  |:---------|:-------:|:--:|:--:|:--:|:--:|
  | English  | C1    | 😆 | 😃 | 🙂 | 🙂 |
  | Japanese | N1    | 😃 | 😃 | 😃 | 🙂 |
- | Chinese (dialects included) | *     | 👽 | 👽 | 👾 | 🚀 |  
- | French   | A2    | 🤔 | 🐕 | 🐈 | 🦔 |
+ | Chinese  | Native | * | * | * | * |  
+ | French   | A2    | - | - | - | - |
 
 #### How to reach me
 
